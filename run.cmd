@@ -1,3 +1,3 @@
 @ECHO OFF
 
-groovy -cp "F:\demo2\poi5\libs\*;D:\PostgreSQL\pgJDBC\*" %1
+groovy -cp "F:\GitHub\poi5\app\lib\*;D:\PostgreSQL\pgJDBC\*" %1
