@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET CLASS_PATH=".;F:\GitHub\poi4\app\lib\*;D:\PostgreSQL\pgJDBC\*"
+SET CLASS_PATH=".;F:\code-project\poi4\app\lib\*;D:\PostgreSQL\pgJDBC\*"
 
 REM groovy.bat -cp ".;F:\java\poi-4.1.2\*;D:\PostgreSQL\pgJDBC\*" hello_poi.groovy
 REM 以上這行指令，在PowerShell下行不通，必須設為變數才行
